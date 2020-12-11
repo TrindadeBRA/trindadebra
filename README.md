@@ -21,6 +21,7 @@
 - 🛠 &nbsp; Atualmente eu trabalho com: Wordpress, Bootstrap, PHP, Javascript/jQuery, HTML, CSS, etc.
 - 🚀 &nbsp; Minha meta é me tornar um Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/trindadebra) e em meu site [TrinityWeb](https://thetrinityweb.com.br/).
+- 📃 &nbsp; Veja meu currículo [aqui](https://thetrinityweb.com.br/resume/)
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
