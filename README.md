@@ -10,7 +10,7 @@
 
 - Sou formado no curso de <b>Análise e Desenvolvimento de Sistemas</b> Pela Universidade Paulista (UNIP) 🎓🏛. 
 
-- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2016 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, trabalho até com agências de maketing!
+- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2016 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, trabalho até hoje com agências de maketing!
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=trindadebra&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
 
@@ -21,7 +21,7 @@
 - 🛠 &nbsp; Atualmente eu trabalho com: Wordpress, Bootstrap, PHP, Javascript/jQuery, HTML, CSS, etc.
 - 🚀 &nbsp; Minha meta é me tornar um Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/trindadebra) e em meu site [TrinityWeb](https://thetrinityweb.com.br/).
-- 📃 &nbsp; Veja meu currículo [aqui](https://thetrinityweb.com.br/resume/)
+- 📃 &nbsp; Veja meu currículo [aqui](https://thetrinityweb.com.br/resume/).
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>
