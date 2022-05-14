@@ -33,4 +33,4 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jquery"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/thailwind/thailwind.png" alt="thailwind"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThoHOiA-gJYNLupWFo6MfyGQ6IyJ4nK8IzkwfeTwEQQSC7Zg8nNcNkFVyVxDlhpweX0tI&usqp=CAU" alt="thailwind"></code>
