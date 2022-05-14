@@ -20,9 +20,12 @@
 
 - 🛠 &nbsp; Atualmente eu trabalho com: Wordpress, Bootstrap, PHP, Javascript/jQuery, HTML, CSS, etc.
 - ✍🏻 &nbsp; Conhecimento em Photoshop (Formado pela SENAC).
-- 🚀 &nbsp; Minha meta é me tornar um Desenvolvedor Full Stack.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/trindadebra) e em meu site [TrinityWeb](https://thetrinityweb.com.br/).
 - 📃 &nbsp; Veja meu currículo [aqui](https://thetrinityweb.com.br/resume/).
+
+### Minha meta?
+
+- 🚀 &nbsp; Minha meta é me tornar um desenvolvedor front-end especialista em Javascript
 
 ### Tecnologias:
 <!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
