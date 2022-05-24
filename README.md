@@ -10,7 +10,7 @@
 
 - Sou formado no curso de <b>Análise e Desenvolvimento de Sistemas</b> Pela Universidade Paulista (UNIP) 🎓🏛. 
 
-- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2016 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, trabalho até hoje com agências de maketing!
+- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2016 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, e trabalhei por quase 6 anos em agências de marketing. Em maio de 2022 entrei em uma tech-house, focada em desenvolvimento de softwares de alto nível! E onde estou até hoje!
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=trindadebra&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
 
