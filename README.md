@@ -27,7 +27,7 @@
 
 - 🚀 &nbsp; Minha meta é me tornar um desenvolvedor front-end especialista em Javascript
 
-### Tecnologias:
+### Conhecimento em:
 <!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 [![Wordpress Badge](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://thetrinityweb.com.br/resume/)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://thetrinityweb.com.br/resume/)
@@ -39,3 +39,4 @@
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://thetrinityweb.com.br/resume/)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://thetrinityweb.com.br/resume/)
 [![Git Badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://thetrinityweb.com.br/resume/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://thetrinityweb.com.br/resume/)
