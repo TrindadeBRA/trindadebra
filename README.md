@@ -18,16 +18,10 @@
 
 ### Falando um pouco mais sobre mim:
 
-- 🛠 &nbsp; Atualmente eu trabalho com: Wordpress, Bootstrap, PHP, Javascript/jQuery, HTML, CSS, etc.
-- ✍🏻 &nbsp; Conhecimento em Photoshop (Formado pela SENAC).
+- 🛠 &nbsp; Atualmente eu trabalho com: React, Next.js, Wordpress, PHP, Javascript/jQuery, HTML, CSS, etc.
 - 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/trindadebra) e em meu site [TrinityWeb](https://thetrinityweb.com.br/).
-- 📃 &nbsp; Veja meu currículo [aqui](https://thetrinityweb.com.br/resume/).
 
-### Minha meta?
-
-- 🚀 &nbsp; Minha meta é me tornar um desenvolvedor front-end especialista em Javascript
-
-### Conhecimento em:
+### Algumas skills:
 <!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 [![Wordpress Badge](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://thetrinityweb.com.br/resume/)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://thetrinityweb.com.br/resume/)
