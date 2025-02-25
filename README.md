@@ -1,16 +1,14 @@
 ## Olá 👋, Sou o  [Lucas Trindade!](https://github.com/TrindadeBRA/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/trindadebra/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://thetrinityweb.com.br/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/trindadebra)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/trindadebra/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lucastrindade.dev/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-ff?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/5511952498126)
 
 ### É bom ter você aqui! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=trindadebra.trindadebra&style=flat-square&color=0088cc)
 
 - Sou formado no curso de <b>Análise e Desenvolvimento de Sistemas</b> Pela Universidade Paulista (UNIP) 🎓🏛. 
 
-- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2016 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, e trabalhei por quase 6 anos em agências de marketing. Em maio de 2022 entrei em uma tech-house, focada em desenvolvimento de softwares de alto nível! E onde estou até hoje!
+- Comecei a trabalhar como desenvolvedor front-end 👨🏻‍💻 em 2017 em uma pequena agencia de marketing em minha <a href="https://goo.gl/maps/f3wAtBmCz9aLNokz7">cidade natal</a>. Desde então não parei mais, e trabalhei por quase 5 anos em agências de marketing. Em maio de 2022 entrei em uma tech-house, focada em desenvolvimento de softwares de alto nível! E onde estou até hoje!
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=trindadebra&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/) -->
 
@@ -18,8 +16,7 @@
 
 ### Falando um pouco mais sobre mim:
 
-- 🛠 &nbsp; Atualmente eu trabalho com: React, Next.js, Wordpress, PHP, Javascript/jQuery, HTML, CSS, etc.
-- 👨🏻‍💻 &nbsp; A maioria dos meus projetos estão disponiveis em meu [Github](https://github.com/trindadebra) e em meu site [TrinityWeb](https://thetrinityweb.com.br/).
+- 🛠 &nbsp; Atualmente eu trabalho com: Node.js, Next.js, WordPress, React.
 
 ### Algumas skills:
 <!-- https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
