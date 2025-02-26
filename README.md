@@ -1,3 +1,3 @@
-## Olá 👋, Sou o  [Lucas Trindade!](https://lucastrindade.dev/)
+# 👋 Olá! Sou [Lucas Trindade](https://lucastrindade.dev/)
 
-https://lucastrindade.dev/
+🚀 *"Done is better than perfect."*
