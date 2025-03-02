@@ -7,11 +7,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrindadeBRA&layout=compact&theme=tokyonight)
 
 <div style="display: flex; align-items: center;">
-    <div>
+    <div style="flex: 1;">
         <h2>📊 Linguagens mais usadas</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrindadeBRA&layout=compact&theme=tokyonight" alt="Top Langs">
     </div>
-    <div style="margin-left: 20px; display: flex; flex-wrap: wrap;">
+    <div style="margin-left: 20px; display: flex; flex-wrap: wrap; align-items: center;">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js Badge">
