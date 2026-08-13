@@ -2,10 +2,6 @@
 
 *"Done is better than perfect."*
 
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrindadeBRA&layout=compact&theme=tokyonight)
-
 ## 🛠️ Frameworks / CMS
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
